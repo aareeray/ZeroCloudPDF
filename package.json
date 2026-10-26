@@ -1,0 +1,23 @@
+{
+  "name": "thousandtools",
+  "version": "1.0.0",
+  "description": "A Thousand Tools - 100% Private, Client-Side All-In-One PDF & Image Tools Suite",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node test/suite.js"
+  },
+  "keywords": [
+    "pdf-tools",
+    "image-tools",
+    "client-side",
+    "privacy",
+    "pdf-lib",
+    "webassembly",
+    "all-in-one"
+  ],
+  "author": "Antigravity Pair Programmer",
+  "license": "MIT"
+}
